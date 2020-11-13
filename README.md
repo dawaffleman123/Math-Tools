@@ -13,3 +13,4 @@ A Computer that can run python
 
 # Notes
 Feel free to modify the code or use it but please give credit where credit is due. DO NOT in anyway use this in a incorrect manner I am not responsible for what you do with this software. More will be added as I can make the software.
+I am a student so I may not be able to ansewer your questions right away but I will soon
