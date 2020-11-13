@@ -3,11 +3,17 @@ Math tools to help with tedious math equations created by Brady Van Oss
 
 # Requirements
 1. Windows, Mac, Linux
+
   A. Python 3.7 - https://www.python.org/downloads/
+  
   B. A Computer that can run python
+  
 2.Chrombook or other device
+
   A. https://trinket.io/
+  
   B. You may need to create an account but it should still work
+  
   C. You will have to copy and paste the code onto the website, just click on the program and copy and paste it
 
 # How to Use
