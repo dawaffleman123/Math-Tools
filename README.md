@@ -27,6 +27,6 @@ Feel free to modify the code or use it but please give credit where credit is du
 I am a student so I may not be able to ansewer your questions right away but I will soon
 
 # Coming Soon
-1. The disance formula will show the work required
-2. A Triangle congruency solver when given 6 points
+1. How to video
+2.The disance formula will show the work required 
 3. Any other requests or things that I find helpful to add
