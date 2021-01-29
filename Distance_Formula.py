@@ -13,8 +13,16 @@ while True:
     Y4 = Y3 * Y3
     Dis = int(X4) + int(Y4)
     print(" ")
+    print("Work:")
+    print("(" + str(X2) + " - " + str(X1) + ")^2 + "+"(" + str(Y2) + " - " + str(Y1) + ")^2")
+    print("X = (" + str(X3) + ")")
+    print("Y = (" + str(Y3) + ")")
+    
+
+    print()
 
     print("The Distance is: " + str(Dis))
     print("The Square root is: " + str(math.sqrt(Dis)))
     time.sleep(3)
     
+
