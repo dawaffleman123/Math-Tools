@@ -1,6 +1,6 @@
 import math
 import time
-
+from fractions import *
 print("This was created by Brady Van Oss you may download others like it at https://github.com/dawaffleman123/Math-Tools")
 print("Welcome to the Slope Formula Calculator")
 while True:
@@ -19,3 +19,7 @@ while True:
     print("      " + str(Y3))
     print("M = ------------")
     print("      " + str(X3))
+    print()
+    print(Fraction(Y3, X3))
+    time.sleep(1)
+
