@@ -22,6 +22,9 @@ Math tools to help with tedious math equations created by Brady Van Oss
 3. Follow the on-screen instructions
 4. Share and Enjoy!
 
+# TI-nspire calculators
+You can run python on a these calculators after you update the operating system to at least 5.2. Please ask if you would like a tutoriol for this
+
 # Notes
 Feel free to modify the code or use it but please give credit where credit is due. DO NOT in anyway use this in a incorrect manner I am not responsible for what you do with this software. More will be added as I can make the software.
 I am a student so I may not be able to ansewer your questions right away but I will soon
